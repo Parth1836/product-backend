@@ -12,12 +12,5 @@
     "lastName": "User",
     "userEmail": "sample@gmail.com",
     "password": "sample@123"
-  },
-  {
-    "id": 3,
-    "firstName": "Test1",
-    "lastName": "User",
-    "userEmail": "user1@gmail.com",
-    "password": "user@123"
   }
 ]
