@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken');
-const SECRET_KEY = process.env.SECRET_KEY || "YOUR_SECRET_KEY";  // Store this securely!
+const SECRET_KEY = process.env.SECRET_KEY || "PARTH_SECRETS";  // Store this securely!
 
 // func for generating JWT token 
 export function generateToken (user: any) {
